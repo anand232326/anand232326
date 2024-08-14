@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning.<br>👯 I’m looking to collaborate on Data Analytics Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Data and its insights<br>⚡ Fun fact - Machine Learning is a type of artificial intelligence (AI).
+🔭 I’m currently working on Machine Learning.<br>👯 I’m looking to collaborate on Data Analytics Projects<br>🤝 I’m looking for help with <br>🌱 I’m currently learning Machine Learning<br>💬 Ask me about Data and its insights<br>⚡ Fun fact - Machine Learning is a subset of artificial intelligence (AI).
 
 
 ## 🌐 Socials:
